@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner; 
 
 public class Main {
-	static String str1 = "Welcome to the coders camp showroom. Enter your choice to continue \n 1. Display list of all vehicles"
+	static String str1 = "Welcome to the Coders Camp Showroom. Enter your choice to continue \n 1. Display list of all vehicles"
 			+ " \n 2. Lend a vehicle \n 3. Add a vehicle \n 4. Return a vehicle";
 	
 	static String str2 = "Press Q to quit and C to continue";
